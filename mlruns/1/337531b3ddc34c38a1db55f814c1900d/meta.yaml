@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/admin/code/1kruidenp/TaxiFareModel/mlruns/1/337531b3ddc34c38a1db55f814c1900d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 337531b3ddc34c38a1db55f814c1900d
+run_uuid: 337531b3ddc34c38a1db55f814c1900d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622557738980
+status: 1
+tags: []
+user_id: unknown
